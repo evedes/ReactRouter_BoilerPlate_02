@@ -8,6 +8,7 @@ import { NavBar } from './components/NavBar';
 import { Route, Switch, Redirect } from 'react-router-dom';
 
 export const Routes = () => {
+  console.log(this);
   return (
     <div>
       <NavBar />
