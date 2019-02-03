@@ -1,8 +1,9 @@
-React Boiler Plate 02:
+### React Rouver v4 - part 2/4
 
-1.  Create React App
-2.  React Router v4.0
-3.  Folder Structure aligned for Views + Components
-4.  Meet match, location and history, your best friends!
+Read the article
 
---evedes, Sep 2018
+[The Hitchhiker’s Guide to React Router v4: [match, location, history] — your best friends!](https://medium.freecodecamp.org/hitchhikers-guide-to-react-router-v4-4b12e369d10)
+
+![Alt text](/img/preview.png?raw=true "Optional Title")
+
+
